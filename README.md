@@ -8,6 +8,7 @@
 
 ###
 
+
 <img src="https://raw.githubusercontent.com/kristoforL/kristoforL/output/snake.svg" alt="Snake animation" />
 ![Snake animation]
 <img src="https://github.com/KristoforL/KristoforL/blob/output/github-contribution-grid-snake.svg" />
