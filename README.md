@@ -44,19 +44,19 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jklockhart/" target="_blank">
+  <a href="https://www.linkedin.com/in/jklockhart/" target="_blank()">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/The_BigNerd" target="_blank">
+  <a href="https://twitter.com/The_BigNerd" target="_blank()">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="kristoforlockhart@gmail.com" target="_blank">
+  <a href="kristoforlockhart@gmail.com" target="_blank()">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/the_big_nerd_llc/" target="_blank">
+  <a href="https://www.instagram.com/the_big_nerd_llc/" target="_blank()>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
- <a href="[https://www.instagram.com/the_big_nerd_llc/" target="_blank](https://kristoforl.github.io/OnlinePortfolio/projects.html)">
+ <a href="https://kristoforl.github.io/OnlinePortfolio/projects.html" target="_blank()">
     <img src="BigNerd.png" width="52" height="40" alt="The Big Nerd"  />
   </a>
 </div>
