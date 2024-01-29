@@ -8,13 +8,6 @@
 
 ###
 
-
-<img src="https://raw.githubusercontent.com/kristoforL/kristoforL/output/snake.svg" alt="Snake animation" />
-![Snake animation]
-<img src="https://github.com/KristoforL/KristoforL/blob/output/github-contribution-grid-snake.svg" />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
