@@ -35,8 +35,9 @@
 
 ###
 
-<br clear="both">
+![Snake animation](http://github.com/KristoforL/KristoforL/blob/output/github-contribution-grid-snake.svg)
 
+###
 <div align="center">
   <img height="400" src="https://qph.cf2.quoracdn.net/main-qimg-a6c2d107621e5de9d0635aef62603468"  />
 </div>
