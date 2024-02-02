@@ -43,6 +43,8 @@
 ###
 
 <div align = "center">
+  <img src="https://static-00.iconduck.com/assets.00/left-hand-pointing-right-dark-skin-tone-emoji-1024x645-cv51p1fy.png" width="52" height="40" alt="linkedin logo"  />
+  
   <a href="https://www.linkedin.com/in/jklockhart/" target="_blank()">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -58,6 +60,9 @@
  <a href="https://kristoforl.github.io/OnlinePortfolio/projects.html" target="_blank()">
     <img src="BigNerd.png" width="52" height="52" alt="The Big Nerd"  />
   </a>
+  
+  <img src="https://static-00.iconduck.com/assets.00/right-hand-pointing-left-dark-skin-tone-emoji-1024x645-5mvgoe2l.png" width="52" height="40" alt="linkedin logo"  />
+  
 </div>
 
 ###
