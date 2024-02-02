@@ -5,11 +5,12 @@
 </div>
 
 
-<p>Name: Jacquawn (Kristofor) Lockhart<br>Location: United States<br>Current_Position: Automation Engineer<br>Past_Experiences: <br>  - Core SaaS Support Engineer<br>  - Technical Automation Support<br>  - API Support Engineer<br>  - Jr App Developer<br> <hr>Fields_Of_Interests: Full Stack, Mobile Automation, AWS, Artificial Intelligence, Machine Learning, Python Development<br>Currently_Learning: MEAN Stack, AWS<br>Will_Learn: Security, Networking<br>Hobbies: Basketball, Football, Crossfit, Cooking, Animated Series(Bobs Burgers)</p>
+<p>Name: Jacquawn (Kristofor) Lockhart<br>Location: United States<br>Current_Position: Automation Engineer<br>Past_Experiences: <br>  - Core SaaS Support Engineer<br>  - Technical Automation Support<br>  - API Support Engineer<br> - Jr App Developer<br> <hr>Fields_Of_Interests: Full Stack, Mobile Automation, AWS, Artificial Intelligence, Machine Learning, Python Development<br>Currently_Learning: MEAN Stack, AWS<br>Will_Learn: Security, Networking<br>Hobbies: Basketball, Football, Crossfit, Cooking, Animated Series(Bobs Burgers)</p>
 
-###
+<hr>
 
-<div align="center">
+
+<div align="center" height = "300">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -35,16 +36,13 @@
 
 ###
 
-<!--[Snake animation](http://github.com/KristoforL/KristoforL/blob/output/github-contribution-grid-snake.svg)!-->
-
-###
 <div align="center">
   <img height="400" src="https://qph.cf2.quoracdn.net/main-qimg-a6c2d107621e5de9d0635aef62603468"  />
 </div>
 
 ###
 
-<div align="center">
+<div align = "center">
   <a href="https://www.linkedin.com/in/jklockhart/" target="_blank()">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -55,10 +53,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/the_big_nerd_llc/" target="_blank()>
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/>
   </a>
  <a href="https://kristoforl.github.io/OnlinePortfolio/projects.html" target="_blank()">
-    <img src="BigNerd.png" width="52" height="40" alt="The Big Nerd"  />
+    <img src="BigNerd.png" width="52" height="52" alt="The Big Nerd"  />
   </a>
 </div>
 
