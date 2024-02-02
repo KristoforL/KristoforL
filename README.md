@@ -1,11 +1,11 @@
-<p align="center">Hello & Welcome to My World:</p>
+<h2 align="center">Hello & Welcome to My World</h2>
 
-<div align="center">
-  <img height="500" src="https://38.media.tumblr.com/c35d10f5f0b3bccbca68c10d04f3f82e/tumblr_nhh4oseIdl1so18vqo1_500.gif"  />
+<div >
+  <img align="right" src="https://38.media.tumblr.com/c35d10f5f0b3bccbca68c10d04f3f82e/tumblr_nhh4oseIdl1so18vqo1_500.gif"  />
 </div>
 
 
-<p>Name: Jacquawn (Kristofor) Lockhart<br>Location: United States<br>Current_Position: Automation Engineer<br>Past_Experiences: <br>  - Core SaaS Support Engineer<br>  - Technical Automation Support<br>  - API Support Engineer<br>  - Jr App Developer<br> <br>Fields_Of_Interests: Full Stack, Mobile Automation, AWS, Artificial Intelligence, Machine Learning, Python Development<br>Currently_Learning: MEAN Stack, AWS<br>Will_Learn: Security, Networking<br>Hobbies: Basketball, Football, Crossfit, Cooking, Animated Series(Bobs Burgers)</p>
+<p>Name: Jacquawn (Kristofor) Lockhart<br>Location: United States<br>Current_Position: Automation Engineer<br>Past_Experiences: <br>  - Core SaaS Support Engineer<br>  - Technical Automation Support<br>  - API Support Engineer<br>  - Jr App Developer<br> <hr>Fields_Of_Interests: Full Stack, Mobile Automation, AWS, Artificial Intelligence, Machine Learning, Python Development<br>Currently_Learning: MEAN Stack, AWS<br>Will_Learn: Security, Networking<br>Hobbies: Basketball, Football, Crossfit, Cooking, Animated Series(Bobs Burgers)</p>
 
 ###
 
