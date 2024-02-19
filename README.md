@@ -19,7 +19,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services.svg" height="40" alt="amazonwebservices logo"  
+  <img src="https://lh4.googleusercontent.com/13nzMeEhPoDfAJtkQroK0264slif2WOWSYHBT8ahDOxX8jASpnbAHJdseGUb2y8nQ5HAfQskJOImC1a15U5bv6r7_y5FFHFhhPp2VRBhnavS0wQC3W56l2Djn1eut-FsGr9F9sDtLAtUmGuF8YaaXf2SX8_gF3iKJ-SyMtGufoLHNnbMlDsqXB_BkA" height="40" width="50" alt="amazonwebservices logo"  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
