@@ -59,7 +59,7 @@
   <a href="https://www.instagram.com/the_big_nerd_llc/" target="_blank()>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/>
   </a>
- <a href="[https://kristoforl.github.io/OnlinePortfolio/projects.html](http://www.thebignerdllc.com/index.html)" target="_blank()">
+ <a href="http://www.thebignerdllc.com/index.html" target="_blank()">
     <img src="BigNerd.png" width="52" height="52" alt="The Big Nerd"  />
   </a>
   
