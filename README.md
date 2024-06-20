@@ -23,6 +23,8 @@
   <img width="12" />
   <img src="https://cloudfalcon.io/assets/images/AWS-CloudPractitioner-e59f9abb2c52fad10c92a643498ffaa6.png" height="40" width="50" alt="amazonwebservices logo"  
   <img width="12" />
+  <img src="https://percona.com/blog/wp-content/uploads/2016/01/homepage-docker-logo.png" height="40" width="50" alt="Docker"  
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
